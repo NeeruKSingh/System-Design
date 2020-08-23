@@ -1,2 +1,2 @@
-# Sstem-Design
+# System-Design
 Documents related to system design
